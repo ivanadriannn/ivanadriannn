@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hallo 👋, I'm Ivan Adrian</h1>
+</div>
 
-<!--
-**ivanadriannn/ivanadriannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+A strong hope with persevering to achive the success.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ivanadriannn">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanadriannn&layout=compact&langs_count=20"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ivanadriannn&rank_icon=github"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivanadriannn/ivanadriannn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivanadriannn/ivanadriannn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ivanadriannn/ivanadriannn/output/github-contribution-grid-snake.svg">
+  </picture>
+<div/>
